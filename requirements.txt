@@ -1,0 +1,10 @@
+scipy
+zarr
+numpy
+yt[enzo]
+h5py
+pooch
+pandas
+jupyterlab
+dask[distributed]
+bokeh
